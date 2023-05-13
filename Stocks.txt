@@ -1,0 +1,9 @@
+ROG Zephrus Duo 16 2023, ROG, $2500, 20, AMD Ryzen 7000, RTX 4070
+Razer Blade 17, Razer, $2000, 20, i7 7th Gen, GTX 3060
+XPS, Dell, 1976, 48, i5 9th Gen, GTX 3070
+Alienware, Alienware, $1978, 47, i5 9th Gen, GTX 3070
+Swift 7, Acer, 900, 100, i5 9th Gen, GTX 3070
+Macbook Pro 16, Apple, $3500, 10, i5 9th Gen, GTX 3070
+MSI Titan GT77, MSI, $2600, 44, i9 12th Gen, RTX 4080
+Acer Nitro 5 2022, Acer, $899, 30, i7 12th Gen, RTX 2080Ti
+
